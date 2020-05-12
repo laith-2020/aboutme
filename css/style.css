@@ -73,10 +73,24 @@ main article section img{
 	text-shadow: 0 1px 0 #FFFFFF;
 }
 
-#p1{
-	padding: 0 100px 0 45px;
+.d1{
+	padding: 0 100px 0 55px;
 
 }
+.d1 strong ul li{
+	padding-bottom:50px; 
+
+}
+
+.mytophead{
+	padding-left: 50px;;
+	padding-bottom: 20px;
+}
+.mytoplist{
+padding-left: 60px;
+padding-bottom: 20px;
+}
+
 
 #header {
 	height: 75px;
